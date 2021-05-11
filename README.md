@@ -1,4 +1,4 @@
-Latinx Engineer who built schools for 150k kids and software for many more people.
+Hacker who built schools for 150k kids and software for many more people.
 
 **Dreams of** 
 
