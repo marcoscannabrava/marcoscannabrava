@@ -1,8 +1,9 @@
-Hacker who built schools for 150k kids and software for many more people.
+[Hacker and Engineer](https://cannabrava.co/) curious about learning, cybersecurity, AI, blockchain and climate tech.
 
-**Dreams of** 
-
-Tech, Capital & Brains working on the world's toughest problems.
+Current projects:
+- personal chatbot that organizes my notes and bookmarks
+- AI-generated art based on my dog's pictures
+- NLP models that transcribe, summarize and tag audio/video/text
 
 **<< Work I'm proud of >>**
 
