@@ -1,9 +1,6 @@
 [Hacker and Engineer](https://cannabrava.co/) curious about learning, cybersecurity, AI, blockchain and climate tech.
 
-Current projects:
-- personal chatbot that organizes my notes and bookmarks
-- AI-generated art based on my dog's pictures
-- NLP models that transcribe, summarize and tag audio/video/text
+Top of Mind (as of last update): Simple Architectures and Concurrency
 
 **<< Work I'm proud of >>**
 
