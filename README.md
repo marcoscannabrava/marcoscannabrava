@@ -1,4 +1,4 @@
-[Hacker and Engineer](https://cannabrava.co/) curious about learning, cybersecurity, AI, blockchain and climate tech.
+[Hacker and Engineer](https://cannabrava.co/) curious about learning, cybersecurity, AI and climate tech.
 
 ### Work I'm proud of
 
