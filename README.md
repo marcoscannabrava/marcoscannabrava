@@ -1,4 +1,5 @@
-[Hacker and Engineer](https://cannabrava.co/) curious about learning, cybersecurity, AI and climate tech.
+[Hacker and Engineer](https://cannabrava.co/). ML Ops, full stack development, cybersecurity, UX.
+
 
 ### Work I'm proud of
 
