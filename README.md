@@ -18,3 +18,6 @@
 > "Opportunity is missed by most people because it is dressed in overalls and looks like work." — _Thomas Edison_
 > 
 > “I think the first lesson is not assuming, ‘I will do the right thing no matter the circumstances.’ Planning ahead for thinking: ‘The circumstances that I put myself into will shape what I will do, and may even shape the person I become.'" — _Ken Shotts (on a podcast with @namalhotra)_
+>
+> "Nec audiendi qui solent dicere, Vox populi, vox Dei, quum tumultuositas vulgi semper insaniae proxima sit." — _Alcuin of York_
+> Don't listen to those who say the voice of the people is the voice of God, since the riots of the masses are always close to madness.
