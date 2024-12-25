@@ -1,4 +1,4 @@
-[Software Engineer](https://cannabrava.co/). Full stack development, ML Ops, UX, infra.
+[Software Engineer](https://cannabrava.co/). web, ml ops, ux, infra
 
 
 ### Some stuff I did
