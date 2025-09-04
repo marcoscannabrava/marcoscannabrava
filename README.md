@@ -1,12 +1,12 @@
-[Software Engineer](https://cannabrava.co/). web, ml ops, ux, infra
+[software engineer](https://cannabrava.co/). web, ml ops, ux, infra
 
 
-### Some stuff I did
-
-| <img src="https://hone.wpenginepowered.com/wp-content/uploads/Hone-Menu-Logo.svg" alt="Hone" width="100"> | <img src="https://res.cloudinary.com/mpc-cloud/image/upload/v1614294174/marcoscannabrava_github/logo_h6nlpl.png" alt="Bansho" width="100"> | <img src="https://res.cloudinary.com/mpc-cloud/image/upload/v1614295257/marcoscannabrava_github/sw_logo_i64an8.jpg" alt="SimplyWise" width="100"> |
-|:---:|:---:|:---:|
-| [Live Learning](https://www.honehq.com/) | [K12 EdTech (acquired)](https://medium.com/vcdium/goingvc-partners-why-we-invested-in-bansho-1bc4f51c75b7) | [Gov't Benefits FinTech](https://www.simplywise.com/) |
-
+[<img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="Pytorch (Language Model Training and Inference Performance)" title="Pytorch (Language Model Training and Inference Performance)" width="100" />](https://pytorch.org/) &nbsp;&nbsp;&nbsp;
+[<img src="https://www.trychroma.com/_next/static/media/chroma-wordmark.9b7fa717.svg" alt="ChromaDB (Retrieval Augmented Generation)" title="ChromaDB (Retrieval Augmented Generation)" width="100" />](https://www.trychroma.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/06/OpenAI_logo_2025.svg" alt="OpenAI" alt="OpenAI" width="100" />](https://openai.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" alt="Airbnb" title="Airbnb" width="100" />](https://www.airbnb.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" title="AWS" height="30" />](https://aws.amazon.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg" alt="Anthropic" title="Anthropic" width="120" />](https://www.anthropic.com/) &nbsp;&nbsp;&nbsp;
 
 
 > **Quotes:**
