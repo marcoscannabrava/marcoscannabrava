@@ -7,6 +7,16 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" alt="Airbnb" title="Airbnb" width="100" />](https://www.airbnb.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" title="AWS" height="30" />](https://aws.amazon.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg" alt="Anthropic" title="Anthropic" width="120" />](https://www.anthropic.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://www.drupal.org/files/project-images/sentry-wordmark-dark-400x119.png" alt="Sentry" title="Sentry" width="100" />](https://www.sentry.io/) &nbsp;&nbsp;&nbsp;
+[<img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" alt="Meta" title="Meta" width="100" />](https://www.meta.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://images.icon-icons.com/2699/PNG/512/apple_logo_icon_168588.png" alt="Apple" title="Apple" width="100" />](https://www.apple.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://lh3.googleusercontent.com/GUsKyQ4g-eTe1ChfmXrbNJpLYMPfYb_sjP8HzFFozJvEsqwLThMIHSksUvgY9lPXsTlH8CEDAJvB4cWmP0w9OGURBKvOFaPdRrbjZiQbWRm6JeVtNQ=s0" alt="Android" title="Android" width="120" />](https://www.android.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" alt="Salesforce" title="Salesforce" height="40" />](https://www.salesforce.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/YouTube_2024.svg" alt="YouTube" title="YouTube" width="100" />](https://www.youtube.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack" title="Slack" width="100" />](https://www.slack.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft" title="Microsoft" width="100" />](https://www.microsoft.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="Elastic" title="Elastic" width="100" />](https://www.elastic.co/) &nbsp;&nbsp;&nbsp;
+
 
 
 > **Quotes:**
