@@ -2,7 +2,7 @@
 
 
 [<img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="Pytorch (Language Model Training and Inference Performance)" title="Pytorch (Language Model Training and Inference Performance)" width="100" />](https://pytorch.org/) &nbsp;&nbsp;&nbsp;
-[<img src="https://www.trychroma.com/_next/static/media/chroma-wordmark.9b7fa717.svg" alt="ChromaDB (Retrieval Augmented Generation)" title="ChromaDB (Retrieval Augmented Generation)" width="100" />](https://www.trychroma.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://www.trychroma.com/_next/static/media/chroma-wordmark.0~1c352v-zy35.svg" alt="ChromaDB (Retrieval Augmented Generation)" title="ChromaDB (Retrieval Augmented Generation)" width="100" />](https://www.trychroma.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/06/OpenAI_logo_2025.svg" alt="OpenAI" alt="OpenAI" width="100" />](https://openai.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" alt="Airbnb" title="Airbnb" width="100" />](https://www.airbnb.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" title="AWS" height="30" />](https://aws.amazon.com/) &nbsp;&nbsp;&nbsp;
